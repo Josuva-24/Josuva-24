@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Josuva-24
 - 👀 I’m interested in ...data science
-- 🌱 I’m currently learning ...python
+- 🌱 I’m currently learning ...b.tech AI&DS
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...s9554877@gmail.com
 - 😄 Pronouns: ...he/him
